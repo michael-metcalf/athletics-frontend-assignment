@@ -8,7 +8,6 @@ Please follow all checkbox in 4 sections below as much as possible. (Tick/Un-tic
 ### 1. Tech stack.
 Its best to used our recommended stack as its our product tech stack.
  - [ ] Use [VueJS 3](https://v3.vuejs.org) or [NuxtJs](https://nuxtjs.org).
- - [ ] Use [Tailwind](https://tailwindcss.com) or [Buefy](https://buefy.org).
  - [ ] Use [Typescript](https://www.typescriptlang.org/) as much as possible.
 
 ### 2. Knowledge of frontend architecture
